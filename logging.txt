@@ -5,6 +5,8 @@ sample
 
 adding contents from another person
 
+another one more change
+
 Request method:	POST
 Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
 Proxy:			<none>
